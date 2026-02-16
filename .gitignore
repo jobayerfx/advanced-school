@@ -2,3 +2,4 @@
 # Logs
 logs
 *.log
+application/third_party/firebase_notification_key.json

@@ -19,7 +19,8 @@ class Paymongo {
     public function payment() {
         $gateway = Omnipay::create('Paymongo_Card');
         
-        $gateway->setKeys('pk_test_xQBzFMDbKeiTD9GRovJLgkAK', 'sk_test_ttfPyF2BE396vQLVVMfAYGaK');
+        $gateway->setKeys('pk_test_009', 'sk_test_009');
+        // $gateway->setKeys('pk_test_', 'sk_test_');
         $token = $gateway->authorize([
             'number' => '4123 4501 3100 0508',
             'expiryMonth' => '1',
