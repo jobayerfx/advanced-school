@@ -1,10 +1,10 @@
 {
-    "name": "smartschool/qdocs",
-    "description": "Smart School",
-    "license": "Smart School Qdocs",
+    "name": "modelschool/qdocs",
+    "description": "ABC Model School",
+    "license": "ABC Model School Qdocs",
     "authors": [
         {
-            "name": "smartschool",
+            "name": "modelschool",
             "email": "support@qdocs.in"
         }
     ],

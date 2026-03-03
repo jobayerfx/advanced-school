@@ -1,6 +1,6 @@
 <?php return array(
     'root' => array(
-        'name' => 'smartschool/qdocs',
+        'name' => 'modelschool/qdocs',
         'pretty_version' => '1.0.0+no-version-set',
         'version' => '1.0.0.0',
         'reference' => null,
@@ -432,7 +432,7 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
-        'smartschool/qdocs' => array(
+        'modelschool/qdocs' => array(
             'pretty_version' => '1.0.0+no-version-set',
             'version' => '1.0.0.0',
             'reference' => null,
